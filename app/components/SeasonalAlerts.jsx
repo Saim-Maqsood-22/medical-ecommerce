@@ -125,11 +125,7 @@ const WeatherBasedHealthAlert = () => {
                 text-center
                 text-lg md:text-xl
                 font-semibold
-<<<<<<< HEAD
                 mb-0 md:mb-0
-=======
-                mb-6 md:mb-8
->>>>>>> 5e0e30bb84cbbd8c5d1b04b7134352e31f6d482a
                 rounded-lg
                 shadow-md
                 flex items-center justify-center
